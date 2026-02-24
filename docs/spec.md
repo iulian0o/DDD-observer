@@ -10,7 +10,6 @@
 - reinforce type safety with compile-time checks
 - make sure there are no primitive obsessions
 - add the Observer Pattern functions at the end
-- ignore @exercises/ folder
 
 ## Use agents to make reviews and docs
 
