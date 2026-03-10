@@ -39,7 +39,7 @@ Refactored `fraudDetectionMonitor.ts` to fix type-safety bugs and improve readab
 
 ---
 
-## What Was Not Changed
+# What Was Not Changed #
 
 - Public function signature — no breaking change for callers.
 - Alert content and wording — behaviour is identical from the outside.
